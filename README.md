@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi there 👋 I am sivabalamurugan </h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-
+<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg?w=740&t=st=1688717707~exp=1688718307~hmac=4b8b6d4ee3b01947ca43c9687c4ad7f9e8289c2b7e373758bb04290033946d3e)">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sivadestroyer&label=Profile%20views&color=0e75b6&style=flat" alt="sivadestroyer" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sivadestroyer" alt="sivadestroyer" /></a> </p>

@@ -22,9 +22,11 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sivadestroyer&label=Profile%20views&color=0e75b6&style=flat" alt="sivadestroyer" /> </p>
 
-- 🌱 I’m currently learning **react js**
+- 🌱 I’m currently learning **Django**
 
 - 💬 Ask me about **python,CNN**
+  
+- 👯 I’m looking to collaborate on **Machine Learning projects**
 
 - 📫 How to reach me **sbmsakthi007@gmail.com**
 

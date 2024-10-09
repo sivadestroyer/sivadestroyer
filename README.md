@@ -22,11 +22,11 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sivadestroyer&label=Profile%20views&color=0e75b6&style=flat" alt="sivadestroyer" /> </p>
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **java IO**
 
-- 💬 Ask me about **python,CNN**
+- 💬 Ask me about **Digital Signage**
   
-- 👯 I’m looking to collaborate on **Machine Learning projects**
+- 👯 I’m looking to collaborate on **java projects**
 
 - 📫 How to reach me **sbmsakthi007@gmail.com**
 
